@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on BricsCAD / AutoCAD Automation, Metashape Agisoft Graphics Computing
+- 🌱 I’m currently learning Business Analytics and improving .NET skills
 <!--
 **johnelim/johnelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
