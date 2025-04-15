@@ -2,7 +2,7 @@
 
 - 🔭 Software Developer (.NET and 3D BIM/CAD)
 - ⚡Mechanical / Manufacturing / Electrical / Software Engineering Background
-- 📫 Industries: CAD, Building Services, Solar / Renewable, Machine Learning
+- 📫 Industries: CAD, Construction, Building Services, Solar / Renewable, Machine Learning
 
 
 <!--
