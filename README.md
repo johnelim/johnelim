@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Software Developer (.NET and 3D BIM/CAD)
-- ⚡Mechanical / Manufacturing / Electrical / Software Engineering Background
-- 📫 Industries: CAD, Construction, Building Services, Solar / Renewable, Machine Learning
+- ⚡Education: Mechanical / Manufacturing / Electrical / Software Engineering Background
+- 📫 Domain: CAD, Construction, Building Services, Solar / Renewable, Machine Learning
+- 🔭 Tech Stack: C# .NET (Backend) ReactJS / Typescript (Frontend)
 
 
 <!--
